@@ -4,7 +4,7 @@ Para cada ejercicio resuelve lo que se te pide y genera su prueba de escritorio 
 1. Construya un algoritmo en pseudocódigo y DF tal que dada la temperatura en grados Farenheit, determine el deporte apropiado a practicar a esa temperatura. Tome en consideración la siguiente tabla:
 
 |DEPORTE   | TEMPERATURA |
-|------------------------|
+|----------|-------------|
 | Natación | >85         |
 | Tenis    | 70<TEMP<=85 |
 | Golf     | 32<TEMP<=70 |
